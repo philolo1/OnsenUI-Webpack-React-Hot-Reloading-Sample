@@ -9,6 +9,6 @@ Here you can see what is possible with hot reloading:
 
 ![Hot reloading example](https://onsen.io/blog/content/images/2016/Jun/hot_reloader2.gif)
 
-For more info, check out this [blog post](https://onsen.io/v2/react.html). 
+For more info, check out this [blog post](https://onsen.io/blog/react-webpack-hot-loader-onsenui/). 
 
 To learn more about the React Components for OnsenUI check out our website: http://onsen.io/react.
